@@ -1,2 +1,2 @@
 # PbSlider
-A solid and humble responsive javascript slider.
+A solid, humble and responsive javascript slider.
